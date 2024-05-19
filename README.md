@@ -43,12 +43,12 @@ Support Binance's BNB and BEP20, which include functions such as address creatio
 
 PHP8
 ``` php
-composer require fenguoz/bsc-php
+composer require afrocryptomain/bsc-php
 ```
 
 or PHP7
 ``` php
-composer require fenguoz/bsc-php ~1.0
+composer require afrocryptomain/bsc-php ~1.0
 ```
 
 ### Interface
